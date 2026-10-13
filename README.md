@@ -59,41 +59,6 @@ A Turborepo monorepo for a local marketplace covering restaurants, events, hotel
 
 ---
 
-### EzhuFl
-
-**Live:** <https://ezhu-fl.vercel.app/>
-
-A TypeScript web application deployed on Vercel.
-
-**Stack:** TypeScript · Next.js · Vercel
-
----
-
-## How I work
-
-- **AI that earns its place** — I reach for a model when it's the right tool, not because it's trending
-- **Production-first** — queues, retries, rate limits, structured errors and monitoring are part of the build, not an afterthought
-- **Security by default** — RLS in the database, secrets never committed, input validated at every boundary
-- **Ship end to end** — schema design, API, frontend, deployment and observability
-
----
-
-## Toolbox
-
-| Area | Technologies |
-|---|---|
-| **Languages** | TypeScript, JavaScript (ESM), Node.js, SQL, Bash, PowerShell |
-| **Frontend** | Next.js, React, Zustand, Tailwind CSS |
-| **Backend** | Node.js, Express, NestJS, REST, WebSockets (Socket.IO) |
-| **AI / ML** | Gemini (`@google/genai`), Google Cloud Text-to-Speech, prompt engineering, streaming inference |
-| **Data** | PostgreSQL, PostGIS, Prisma, PL/pgSQL, Redis, BullMQ, SQLite |
-| **Auth & Security** | Supabase Auth, Row Level Security, JWT, OAuth, Zod validation, rate limiting |
-| **Payments & Messaging** | Stripe, Telegram Bot API |
-| **Infrastructure** | Docker, Docker Compose, Nginx, Kubernetes, GitHub Actions, GitLab CI, Vercel |
-| **Observability** | Raygun, Rollbar, Sentry-style error tracking |
-
----
-
 ## Get in touch
 
 Found something interesting, or have a project in mind?
